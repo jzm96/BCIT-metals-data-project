@@ -1,7 +1,7 @@
 # Baby_Project: Precious Metals Analysis
 This repo is to complete my assignment for BABI-4005.
 
-Data analysis of **Silver, Gold, and Platinum** prices (2016-2023)
+Data analysis of **Silver, Gold, and Platinum** prices (2016-2026)
 
 **Source**: Silver, Gold & Platinum Price Forecasting (Kaggle, Ashrafkhetran)
 
