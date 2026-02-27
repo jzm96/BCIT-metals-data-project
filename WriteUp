@@ -1,0 +1,7 @@
+This project compares investing in gold, silver, and platinum vs. the S&P 500 using daily data from 2017-2025. I joined precious metals prices, returns, and volatility stats with S&P 500 index data from FRED,
+getting about 2,500 matching days.
+
+Key results: Gold tracks stocks closely (corr. 0.91), silver medium (0.78), platinum less (0.48) for diversification. Silver had top returns (498%), gold best risk-adjusted gains (Sharpe 0.99 vs. S&P's 0.82).
+
+Built in Python/Jupyter with simple merges and stats. Great for Power BI visuals or finance portfolios—code is clean and easy to extend.
+
